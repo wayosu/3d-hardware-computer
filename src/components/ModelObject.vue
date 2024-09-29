@@ -28,7 +28,7 @@ onMounted(() => {
 
     // Load Model 3D
     const loader = new GLTFLoader();
-    const modelSrc = new URL(`/src/assets/3d-models/${props.modelSrc}`, import.meta.url).href;
+    const modelSrc = new URL(`/assets/${props.modelSrc}`, window.location.origin).href;
     console.log(modelSrc);
     let model; // Declare model variable here
 
