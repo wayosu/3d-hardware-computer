@@ -3,7 +3,7 @@
         "id": 1,
         "judul": "Mengenal lebih dekat apa itu Network Interface Card (NIC)",
         "slug": "mengenal-apa-itu-network-interface-card-nic",
-        "model_src": "../assets/3d-models/network_interface_card/scene.gltf",
+        "model_src": "network_interface_card/scene.gltf",
         "model_scale": "1.2",
         "model_position": "5.5",
         "deskripsi": "Network Interface Card adalah komponen penting dalam penyediaan jaringan dalam komputer dan server. Ini merupakan komponen berupa circuit card yang nantinya dipasang pada perangkat komputer. Fungsi NIC ini adalah sebagai media untuk membentuk hubungan antar komputer, meski utamanya bekerja pada fungsi internet. Komponen ini akan bekerja menghubungkan jaringan dari kabel LAN dengan fungsi komputer. Sehingga nantinya komputer bisa masuk ke dalam jaringan yang terkait dengan LAN tersebut. Nantinya, Network Interface Card ini juga akan berperan sebagai perangkat identifikasi. Karena setiap kartu jaringan memiliki kode unik yang hanya dimiliki setiap kartu masing-masing. identitas kode unik dalam kartu tersebut akan menjadi identitas dari perangkat komputer tersebut ketika bekerja dalam jaringan. NIC memiliki peran besar dalam berjalannya fungsi jaringan internet yang bekerja dengan sistem operasi Jaringan LAN."
@@ -12,7 +12,7 @@
         "id": 2,
         "judul": "Berkenalan dengan Random Access Memory atau yang biasa disebut RAM",
         "slug": "ayo-berkenalan-dengan-random-access-memory-atau-yang-biasa-disebut-ram",
-        "model_src": "../assets/3d-models/random_access_memory/scene.gltf",
+        "model_src": "random_access_memory/scene.gltf",
         "model_scale": "0.4",
         "model_position": "5.5",
         "deskripsi": "RAM atau Random Access Memory merupakan hardware yang terdapat di dalam perangkat gadget seperti komputer, laptop, dan smartphone. RAM ini berfungsi sebagai tempat penyimpanan data sementara dan hanya bekerja saat perangkat tersebut hidup atau beroperasi. Hal ini dimaksudkan bahwa, saat perangkat elektronik yang dijalankan oleh suatu aplikasi program akan menggunakan RAM untuk menempatkan data sementara. Kapasitas RAM di dalam suatu perangkat sangat berpengaruh pada tingkat kecepatan proses data di perangkat tersebut. Sehingga kegiatan yang dilakukan pada perangkat seperti proses penyimpanan data, membuka data, dan menjalankan program akan semakin cepat sesuai besarnya RAM komputer tersebut. Fungsi utama RAM adalah untuk mempercepat pemrosesan data pada perangkat. Tak heran jika semakin besar kapasitas RAM yang dipasang, maka semakin cepat juga perangkat tersebut bekerja."
@@ -21,7 +21,7 @@
         "id": 3,
         "judul": "Sudah tau apa itu Wireless Adapter?",
         "slug": "sudah-tau-apa-itu-wireless-adapter",
-        "model_src": "../assets/3d-models/wireless_adaptor/scene.gltf",
+        "model_src": "wireless_adaptor/scene.gltf",
         "model_scale": "20",
         "model_position": "2",
         "deskripsi": "Wireless adapter adalah perangkat yang memungkinkan komputer atau perangkat lain untuk terhubung ke jaringan nirkabel (wireless network). Wireless adapter memungkinkan perangkat yang tidak memiliki kemampuan built-in untuk terhubung ke jaringan Wi-Fi. Ini berguna untuk desktop atau laptop yang tidak memiliki modul Wi-Fi internal. Wireless adapter memungkinkan perangkat yang tidak memiliki kemampuan built-in untuk terhubung ke jaringan Wi-Fi. Ini berguna untuk desktop atau laptop yang tidak memiliki modul Wi-Fi internal. Wireless adapter banyak digunakan dalam situasi di mana perangkat tidak memiliki kemampuan Wi-Fi internal atau ketika pengguna ingin meningkatkan konektivitas nirkabel perangkat yang ada. Mereka umum digunakan di rumah, kantor, dan tempat umum yang menyediakan akses Wi-Fi."
