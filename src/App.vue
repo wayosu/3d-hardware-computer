@@ -5,7 +5,7 @@ import { ref, onMounted, onUnmounted } from 'vue';
 // Background music setup
 const backgroundMusic = new Audio(new URL('./assets/audio/bgm.mp3', import.meta.url).href);
 backgroundMusic.loop = true;
-const isMuted = ref(true);
+const isMuted = ref(false);
 
 // Function to toggle mute/unmute
 const toggleSpeaker = () => {
