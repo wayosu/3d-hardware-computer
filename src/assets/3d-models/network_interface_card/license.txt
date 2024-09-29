@@ -1,0 +1,11 @@
+Model Information:
+* title:	Network Interface Card
+* source:	https://sketchfab.com/3d-models/network-interface-card-191c8ad40de2430980b879615aa0d2e3
+* author:	ARComputerFundamentals (https://sketchfab.com/adilaijaz10)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Network Interface Card" (https://sketchfab.com/3d-models/network-interface-card-191c8ad40de2430980b879615aa0d2e3) by ARComputerFundamentals (https://sketchfab.com/adilaijaz10) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
