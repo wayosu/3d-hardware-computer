@@ -7,6 +7,11 @@ const routes = [
         component: () => import('./views/Home.vue'),
     },
     {
+        path: '/informasi',
+        name: 'informasi',
+        component: () => import('./views/Informasi.vue'),
+    },
+    {
         path: '/kompetensi-dasar',
         name: 'kompetensi-dasar',
         component: () => import('./views/KompetensiDasar.vue'),
@@ -21,6 +26,11 @@ const routes = [
         name: 'materi-belajar-detail',
         component: () => import('./views/DetailMateri.vue'),
         props: true,
+    },
+    {
+        path: '/video-pembelajaran',
+        name: 'video-pembelajaran',
+        component: () => import('./views/VideoPembelajaran.vue'),
     }
 ]
 

@@ -14,7 +14,7 @@ import { RouterLink } from 'vue-router';
             <h1 class="font-title text-white">Materi Belajar</h1>
         </RouterLink>
 
-        <RouterLink to="" class="flex flex-col justify-center items-center text-center p-6 bg-gradient-to-r from-red-400 to-red-600 rounded-xl shadow hover:shadow-2xl hover:shadow-red-600 transition-all">
+        <RouterLink to="video-pembelajaran" class="flex flex-col justify-center items-center text-center p-6 bg-gradient-to-r from-red-400 to-red-600 rounded-xl shadow hover:shadow-2xl hover:shadow-red-600 transition-all">
             <img src="../assets/images/icon-3.svg" alt="icon-video-pembelajaran" class="w-20 invert">
             <h1 class="font-title text-white">Video Pembelajaran</h1>
         </RouterLink>

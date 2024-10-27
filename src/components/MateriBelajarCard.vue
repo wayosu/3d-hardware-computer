@@ -16,7 +16,7 @@ const goToMateri = (materiSlug) => {
     <div class="flex flex-col gap-6 p-6 mb-16">        
         <article
             v-for="data in dataMateri" :key="data.slug" @click="goToMateri(data.slug)"
-            class="group flex gap-6 bg-white p-6 border rounded-xl shadow hover:border-blue-600 transition-all"
+            class="group flex gap-6 bg-white p-6 border rounded-xl shadow hover:border-blue-600 cursor-pointer transition-all"
         >
             <div
                 class="inline-flex items-center justify-center w-10 h-10 bg-blue-600 p-2 rounded-full"
